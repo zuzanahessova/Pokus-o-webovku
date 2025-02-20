@@ -1,7 +1,7 @@
 /* Nastavení celého pozadí stránky na růžovou */
 body {
     background-color: #69ff76; /* Světle růžová */
-    font-family: Arial, sans-serif;
+     font-family: Cambria, Cochin, Cambria, Cochin, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, 'Times New Roman', serif, 'Times New Roman', Times, serif, Times, 'Times New Roman', serif, sans-serif;
     text-align: center;
     padding: 50px;
 }
