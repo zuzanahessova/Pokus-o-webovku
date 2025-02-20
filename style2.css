@@ -1,0 +1,27 @@
+/* Nastavení celého pozadí stránky na růžovou */
+body {
+    background-color: #69ff76; /* Světle růžová */
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+
+/* Hlavní nadpis (h1) bude modrý */
+h1 {
+    color: #0000ff; /* Modrá barva */
+    font-size: 50px;
+}
+
+/* Odstavec (p) bude bílý, aby byl čitelný na růžovém pozadí */
+p {
+    color: white;
+    font-size: 20px;
+}
+
+/* Přidání stylového tlačítka */
+button {
+    background-color: white;
+    color: #697dff;
+    border: 2px solid #0000ff;
+    padding: 10px 20px;
+    font-si
