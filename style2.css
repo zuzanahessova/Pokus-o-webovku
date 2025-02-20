@@ -14,8 +14,8 @@ h1 {
 
 /* Odstavec (p) bude bílý, aby byl čitelný na růžovém pozadí */
 p {
-    color: white;
-    font-size: 290px;
+    color: rgb(104, 35, 129);
+    font-size: 20px;
 }
 
 /* Přidání stylového tlačítka */
